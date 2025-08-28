@@ -1,0 +1,6 @@
+{
+  "name": "Hey It (嘿一下)",
+  "description": "一款强大的人工智能照片编辑器。使用简单的文本提示即可修饰照片、应用创意滤镜并进行专业调整。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
